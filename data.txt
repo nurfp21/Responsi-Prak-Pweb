@@ -1,0 +1,16 @@
+Tanggal:22-07-21,
+Nama Pengirim:pipit,
+No Pengirim:0812345678,
+Nama Penerima:bayu,
+No Penerima:0898765432,
+Alamat:lampung,
+Jarak:6(KM),
+Total:30000|
+Tanggal:22-07-21,
+Nama Pengirim:pipit,
+No Pengirim:0812345678,
+Nama Penerima:bayu,
+No Penerima:0898765432,
+Alamat:lampung,
+Jarak:6(KM),
+Total:30000|
